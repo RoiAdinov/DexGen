@@ -74,4 +74,4 @@ MAC OS: [ ```Download``` ](https://selenium-finance.gitbook.io/selenium-fi/downl
 
 
 
-> built on .NET and Python, provides professional-grade features for trading, automation, and risk protection. Compatible with all networks and tokens, including the most promising blockchains: ETH, Solana, BSC, AVAX, Solana, MATIC.
+> built on .NET and Python, utilizing Claude Engineer and Llama Arbiter. provides professional-grade features for trading, automation, backtesting, and risk protection. compatible with all networks and tokens, including the most promising blockchains: ETH, Solana, and AVAX. 
